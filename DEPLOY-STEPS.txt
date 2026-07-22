@@ -1,0 +1,7 @@
+1. Create a new PUBLIC GitHub repository.
+2. Upload index.html, firebase-config.js and .nojekyll to the repository root.
+3. Open Settings > Pages.
+4. Select Deploy from a branch > main > /(root) > Save.
+5. Wait for the green deployment status.
+6. Open: https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/
+7. On first opening, press Ctrl+Shift+R once.
